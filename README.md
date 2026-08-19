@@ -1,99 +1,141 @@
-<h1 align="center">Hi 👋, I'm Oshadi Rathnayaka</h1>
-<h3 align="center">Software Engineering Undergraduate | Building Ideas into Digital Experiences</h3>
+<div align="center">
 
-<p align="center">
-  <a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:oshadirathnayaka2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:60A5FA&height=220&section=header&text=Oshadi%20Rathnayaka&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=UI/UX%20Designer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
----
+<br/>
 
-### 🌱 About Me
+<img src="https://readme-typing-svg.demolab.com/?lines=Designing+meaningful+digital+experiences;UI%2FUX+Designer+Intern+%40+Ever+Efficient;BSc+(Hons)+CS+%26+AI+%40+NIBM;Creator+of+RakshaNet+%F0%9F%8C%8A;Turning+ideas+into+pixels+%E2%9C%A8&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22" alt="Typing SVG"/>
 
-A passionate Software Engineer and UI/UX enthusiast who loves turning ideas into simple, practical, and meaningful digital experiences. With a curious mind and a creative approach to problem-solving, I'm always eager to learn, grow, and contribute to innovative technology projects.
+<br/><br/>
 
-- 💼 Currently interning as a **UI/UX Designer Intern** at **Ever Efficient Business Management (Pvt) Ltd**
-- 🎓 Currently pursuing a **BSc (Hons) in Computer Science with Artificial Intelligence** at NIBM (2026–2028)
-- ✅ Completed my **Higher National Diploma in Software Engineering** at NIBM
-- 🏆 Successfully completed **"RakshaNet"** — a Next-Gen Hyper-Local Landslide & Flood Prediction System (IoT, Blockchain, Mobile App, AI) as my HND final project
-- 🎨 Blend of **development + design** — comfortable across code, UI/UX, and prototyping
-- 💃 Outside of code: photography, dancing, singing, and crocheting
+<a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+<a href="mailto:oshadirathnayaka2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=oshadirathnayaka&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
 
-**Languages**
+## ✨ About Me
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-**Frameworks & Tools**
+```yaml
+name: Oshadi Rathnayaka
+role: UI/UX Designer Intern @ Ever Efficient Business Management (Pvt) Ltd
+education: BSc (Hons) Computer Science with AI — NIBM (2026 – 2028)
+previously: Higher National Diploma in Software Engineering — NIBM ✅
+signature_project: "RakshaNet 🌊 — AI + IoT + Blockchain flood & landslide predictor"
+philosophy: "Good design is invisible. Good code makes it real."
+currently_exploring: [UI/UX systems, AI-driven products, design × engineering]
+hobbies: [photography 📸, dancing 💃, singing 🎤, crocheting 🧶]
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+<br clear="right"/>
 
-**Design**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:C084FC&height=3&width=100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-</p>
+## 🎨 Design Toolkit
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=light" />
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-| Project | Description | Tech |
-|---|---|---|
-| **🌊 RakshaNet** *(HND Final Project — Completed ✅)* | Next-generation hyper-local landslide & flood prediction system with mobile app + web dashboard | IoT, Blockchain, AI, Mobile App |
-| **📱 Diploma Final Project** | Mobile & web application built for final diploma assessment | HTML, CSS, JavaScript, Dart |
-| **🎓 Student Management System** | A system to manage student records and academic data | — |
-| **🤖 Podpal** | Robotics project featuring 2 mobile apps controlling 2 main circuits | Flutter, Google Gemini |
+## 🛠️ Tech Stack
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,mysql,dart,flutter,androidstudio,mongodb,arduino,vscode,git,github&theme=light" />
+</div>
 
-### 🎯 Currently Exploring
+<br/>
 
-Deepening my UI/UX design practice as a working intern, while beginning my BSc journey into Artificial Intelligence — exploring how thoughtful design and intelligent systems come together.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
 
----
+## 🚀 Featured Work
 
-### 📊 GitHub Stats
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oshadirathnayaka&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadirathnayaka&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+### 🌊 RakshaNet
+**HND Final Project — Completed ✅**
 
-> ⚠️ Update `username=oshadirathnayaka` above to your actual GitHub username so the stats cards render correctly.
+Next-gen hyper-local landslide & flood prediction system with a mobile app and web dashboard.
 
----
+`IoT` `Blockchain` `AI` `Mobile App`
 
-### 📫 Let's Connect
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">LinkedIn</a> •
-  <a href="mailto:oshadirathnayaka2003@gmail.com">Email</a>
-</p>
+### 🤖 Podpal
+**Robotics Project**
 
-<p align="center"><i>Thanks for stopping by! ✨</i></p>
+Two mobile apps controlling two main circuits — bridging hardware and software.
+
+`Flutter` `Google Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Diploma Final Project
+Mobile & web application built for final diploma assessment.
+
+`HTML` `CSS` `JavaScript` `Dart`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+A system to manage student records and academic workflows end-to-end.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:C084FC&height=3&width=100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=oshadirathnayaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=60A5FA&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadirathnayaka&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshadirathnayaka&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C084FC&line=60A5FA&point=E2E8F0" width="90%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=oshadirathnayaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+> ⚠️ Replace `username=oshadirathnayaka` in every widget URL above with your real GitHub username so these render correctly.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
+
+## 💌 Let's Create Something Together
+
+<div align="center">
+
+<a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:oshadirathnayaka2003@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>"I love turning ideas into simple and practical applications through programming and design."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:C084FC&height=120&section=footer"/>
