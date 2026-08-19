@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Designing+meaningful+digital+experiences;UI%2FUX+Designer+Intern+%40+Ever+Efficient;BSc+(Hons)+CS+%26+AI+%40+NIBM;Creator+of+RakshaNet+%F0%9F%8C%8A;Turning+ideas+into+pixels+%E2%9C%A8&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Designing+meaningful+digital+experiences;UI%2FUX+Designer+Intern+%40+Ever+Efficient;BSc+(Hons)+CS+%26+AI+%40+NIBM;Contributor+of+RakshaNet+%F0%9F%8C%8A;Turning+ideas+into+pixels+%E2%9C%A8&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -106,7 +106,7 @@ A system to manage student records and academic workflows end-to-end.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=oshadi307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=60A5FA&text_color=E2E8F0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadirathnayaka&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadi307&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" height="165"/>
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ A system to manage student records and academic workflows end-to-end.
 <img src="https://github-profile-trophy.vercel.app/?username=oshadi307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
-
+>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
 
