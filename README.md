@@ -105,19 +105,19 @@ A system to manage student records and academic workflows end-to-end.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oshadirathnayaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=60A5FA&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oshadi307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=60A5FA&text_color=E2E8F0" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadirathnayaka&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshadirathnayaka&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C084FC&line=60A5FA&point=E2E8F0" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshadi307&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C084FC&line=60A5FA&point=E2E8F0" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oshadirathnayaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=oshadi307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
-> ⚠️ Replace `username=oshadirathnayaka` in every widget URL above with your real GitHub username so these render correctly.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
 
