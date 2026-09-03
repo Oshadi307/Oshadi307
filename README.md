@@ -97,4 +97,4 @@ my portfolio.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a5f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a5f&height=120&section=footer" width="100%"/>
