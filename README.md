@@ -1,141 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:60A5FA&height=220&section=header&text=Oshadi%20Rathnayaka&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=UI/UX%20Designer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:60a5fa&height=200&section=header&text=Oshadi%20Rathnayaka&fontSize=44&fontColor=e0f2fe&fontAlignY=38&animation=fadeIn&desc=Freelance%20UI/UX%20Designer%20%E2%80%A2%20Business%20Analyst&descSize=17&descAlignY=58" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Freelance+UI%2FUX+Designer;UI%2FUX+Design+Intern+%40+EEBM;11%2B+projects+delivered%2C+1+in+progress;Designing+with+purpose%2C+building+with+care&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=900&color=93C5FD&vCenter=true&size=20" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Designing+meaningful+digital+experiences;UI%2FUX+Designer+Intern+%40+Ever+Efficient;BSc+(Hons)+CS+%26+AI+%40+NIBM;Contributor+of+RakshaNet+%F0%9F%8C%8A;Turning+ideas+into+pixels+%E2%9C%A8&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22" alt="Typing SVG"/>
-
-<br/><br/>
-
 <a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=e0f2fe" />
 </a>
 <a href="mailto:oshadirathnayaka2003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=e0f2fe" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=oshadirathnayaka&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-60a5fa?style=for-the-badge&logo=googlechrome&logoColor=0c1929" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
+<br/>
 
-## ✨ About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="280"/>
+## About Me
 
 ```yaml
-name: Oshadi Rathnayaka
-role: UI/UX Designer Intern @ Ever Efficient Business Management (Pvt) Ltd
-education: BSc (Hons) Computer Science with AI — NIBM (2026 – 2028)
-previously: Higher National Diploma in Software Engineering — NIBM ✅
-signature_project: "RakshaNet 🌊 — AI + IoT + Blockchain flood & landslide predictor"
-philosophy: "Good design is invisible. Good code makes it real."
-currently_exploring: [UI/UX systems, AI-driven products, design × engineering]
-hobbies: [photography 📸, dancing 💃, singing 🎤, crocheting 🧶]
+name:        Oshadi Rathnayaka
+role:        Freelance UI/UX Designer
+internship:  UI/UX Designer Intern @ Ever Efficient Business Management (Pvt) Ltd
+education:   BSc (Hons) Computer Science with AI — NIBM (2026 – 2028)
+previously:  Higher National Diploma in Software Engineering — NIBM ✅
+status:      11 projects delivered • 1 in progress
+philosophy:  "Good design is invisible. Good code makes it real."
+hobbies:     [photography, dancing, singing, crocheting]
 ```
 
-<br clear="right"/>
+I'm a freelance UI/UX designer and Business Analyst who enjoys turning ideas into simple, practical digital
+products — from restaurant and retail systems to mobile apps and event booking sites. Currently designing my
+12th project as a UI/UX Design Intern at EEBM.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:C084FC&height=3&width=100%"/>
+<br/>
 
-## 🎨 Design Toolkit
+## Design Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,mysql,dart,flutter,androidstudio,mongodb,arduino,vscode,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,mysql,dart,flutter,androidstudio,mongodb,git,github&theme=dark" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
+## Featured Work
 
-## 🚀 Featured Work
+11 projects completed across UI/UX design, web, and mobile — a few highlights below. Full case studies are on
+my portfolio.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+| Project | Type |
+|---|---|
+| La Pangea Café & Restaurant | UI/UX Design |
+| EEBM Event Booking Website | UI/UX + Web Design |
+| Personal Finance Mobile App | UI/UX + Mobile |
+| HR & Payroll Management System | System Design |
+| Supermarket POS System | System Design |
+| **EEBM Internship Project** | UI/UX Design — *in progress* |
 
-### 🌊 RakshaNet
-**HND Final Project — Completed ✅**
+<br/>
 
-Next-gen hyper-local landslide & flood prediction system with a mobile app and web dashboard.
-
-`IoT` `Blockchain` `AI` `Mobile App`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Podpal
-**Robotics Project**
-
-Two mobile apps controlling two main circuits — bridging hardware and software.
-
-`Flutter` `Google Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Diploma Final Project
-Mobile & web application built for final diploma assessment.
-
-`HTML` `CSS` `JavaScript` `Dart`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-A system to manage student records and academic workflows end-to-end.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:C084FC&height=3&width=100%"/>
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oshadi307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=60A5FA&text_color=E2E8F0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadi307&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oshadi307&show_icons=true&hide_border=true&bg_color=00000000&title_color=93C5FD&icon_color=60A5FA&text_color=E0F2FE" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadi307&hide_border=true&background=00000000&ring=60A5FA&fire=93C5FD&currStreakLabel=93C5FD&stroke=E0F2FE&sideLabels=E0F2FE&dates=7F9CBD" height="165"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oshadi307&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C084FC&line=60A5FA&point=E2E8F0" width="90%"/>
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oshadi307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,100:60A5FA&height=3&width=100%"/>
-
-## 💌 Let's Create Something Together
+## Let's Create Something Together
 
 <div align="center">
 
 <a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=e0f2fe" />
 </a>
 <a href="mailto:oshadirathnayaka2003@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=e0f2fe" />
 </a>
 
 <br/><br/>
 
-<i>"I love turning ideas into simple and practical applications through programming and design."</i>
+<i>Open to freelance UI/UX work and new collaborations.</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:C084FC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a5f&height=120&section=footer"/>
