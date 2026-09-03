@@ -1,41 +1,37 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:60a5fa&height=200&section=header&text=Oshadi%20Rathnayaka&fontSize=44&fontColor=e0f2fe&fontAlignY=38&animation=fadeIn&desc=Freelance%20UI/UX%20Designer%20%E2%80%A2%20Business%20Analyst&descSize=17&descAlignY=58" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Freelance+UI%2FUX+Designer;UI%2FUX+Design+Intern+%40+EEBM;11%2B+projects+delivered%2C+1+in+progress;Designing+with+purpose%2C+building+with+care&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=900&color=93C5FD&vCenter=true&size=20" alt="Typing SVG"/>
-
-<br/>
-
-<a href="http://linkedin.com/in/oshadirathnayaka-9a1503309">
-  <img src="https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=e0f2fe" />
-</a>
-<a href="mailto:oshadirathnayaka2003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=e0f2fe" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-60a5fa?style=for-the-badge&logo=googlechrome&logoColor=0c1929" />
-</a>
-
+<img src="assets/banner.svg" width="100%"/>
 </div>
 
 <br/>
 
-## About Me
+<table>
+<tr>
+<td width="62%" valign="top">
 
-```yaml
-name:        Oshadi Rathnayaka
-role:        Freelance UI/UX Designer
-internship:  UI/UX Designer Intern @ Ever Efficient Business Management (Pvt) Ltd
-education:   BSc (Hons) Computer Science with AI — NIBM (2026 – 2028)
-previously:  Higher National Diploma in Software Engineering — NIBM ✅
-status:      11 projects delivered • 1 in progress
-philosophy:  "Good design is invisible. Good code makes it real."
-hobbies:     [photography, dancing, singing, crocheting]
-```
+### 🎨 I'M OSHADI!
 
-I'm a freelance UI/UX designer and Business Analyst who enjoys turning ideas into simple, practical digital
-products — from restaurant and retail systems to mobile apps and event booking sites. Currently designing my
-12th project as a UI/UX Design Intern at EEBM.
+*Freelance UI/UX Designer &amp; Business Analyst*
+
+I'm a freelance UI/UX designer and Software Engineering undergraduate with a love for turning ideas into
+simple, practical digital products. I've delivered 11 projects so far — restaurant &amp; retail systems, mobile
+apps, and event booking sites — and I'm currently designing my 12th as a UI/UX Design Intern at Ever Efficient
+Business Management.
+
+- 🎓 BSc (Hons) Computer Science with AI @ NIBM
+- 🖌️ 11 projects delivered, spanning web, mobile &amp; system design
+- 🧩 Currently designing a new project during my internship at EEBM
+- 🧠 Comfortable across the full flow: research, wireframes, Figma prototypes, and build
+- 💌 Open to freelance UI/UX work — reach out any time
+- 💻 Visit my [Portfolio](#) for full case studies
+
+<img src="https://komarev.com/ghpvc/?username=oshadi307&style=for-the-badge&color=60a5fa&labelColor=16243f&label=PROFILE+VIEWS" />
+
+</td>
+<td width="38%" align="center" valign="middle">
+<img src="assets/design-illustration.svg" width="260"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -97,4 +93,4 @@ my portfolio.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a5f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1e3a5f&height=120&section=footer"/>
